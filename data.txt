@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1285117699%2C%22first_name%22%3A%220xijal%22%2C%22last_name%22%3A%22%F0%9F%8D%85%20%F0%9F%90%88%E2%80%8D%E2%AC%9B%22%2C%22username%22%3A%22pgfight%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=7417623788288217538&chat_type=sender&auth_date=1728193729&hash=c021e1c6751f2d8f84dfdab350ddd1e2342888654afa8fb4f3d8fc11cace9e81
